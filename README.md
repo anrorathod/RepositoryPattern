@@ -4,6 +4,11 @@ C# Repository Pattern Demo Application for .Net Core 7
 <h3>TEST API</h3>
 <ul>
   <li>Get User Token</li>
+  <li> Country
+    <ul>
+      <li>Add Country</li>
+    </ul>
+  </li>  
 </ul>
 
 # Test API
